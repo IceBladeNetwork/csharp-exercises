@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookDict", "GradebookD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookArray", "GradebookArray\GradebookArray.csproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prep1a", "HelloWorld\Prep1a.csproj", "{9DFCF145-DEB0-4A4F-B417-3A4C4D26A486}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prep1a", "HelloWorld\Prep1a.csproj", "{9DFCF145-DEB0-4A4F-B417-3A4C4D26A486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prep1b", "NumericTypes1\Prep1b.csproj", "{15857AC7-1A53-4EB8-B7FB-702B3728193D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prep1b", "NumericTypes1\Prep1b.csproj", "{15857AC7-1A53-4EB8-B7FB-702B3728193D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prep1c", "NumericTypes2\Prep1c.csproj", "{AA33B2BA-08DF-4467-8E42-DBC9A25D8753}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prep1c", "NumericTypes2\Prep1c.csproj", "{AA33B2BA-08DF-4467-8E42-DBC9A25D8753}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prep1d", "Strings\Prep1d.csproj", "{239023E1-5FC7-44B9-8FD7-7DF143F74A95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prep1d", "Strings\Prep1d.csproj", "{239023E1-5FC7-44B9-8FD7-7DF143F74A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studio1", "Studio1\Studio1.csproj", "{6CBDDF95-C300-40FA-A916-B407664CFF2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{239023E1-5FC7-44B9-8FD7-7DF143F74A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239023E1-5FC7-44B9-8FD7-7DF143F74A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239023E1-5FC7-44B9-8FD7-7DF143F74A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBDDF95-C300-40FA-A916-B407664CFF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBDDF95-C300-40FA-A916-B407664CFF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBDDF95-C300-40FA-A916-B407664CFF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBDDF95-C300-40FA-A916-B407664CFF2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
