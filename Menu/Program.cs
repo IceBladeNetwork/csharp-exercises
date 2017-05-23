@@ -14,7 +14,7 @@ namespace Menu
     class MenuItem 
     {
         float price { get; set; }
-        string desc { get; set; };
+        string desc { get; set; }
         static string catagory { get; set; }
         public DateTime dateAdded;
         bool isNew;
